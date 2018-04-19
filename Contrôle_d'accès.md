@@ -10,14 +10,15 @@ Pour L’autorisation d’accès Il y a trois façons de prouver son identité f
 
 ## 1.Comment faire du contrôle d’accès ?
 A l’aide :
-	- De gardiennage : Un gardien à une porte, contrôle les entrées et les sorties par reconnaissance visuelle des personnes ou par lecture d’un badge avec photo d’identité ou bien encore par la vérification d’un laissez-passer.
 
-	- De moyens mécaniques : Un portillon, un sas, une barrière…peuvent être utilisés pour filtrer les entrées, les compter ou ne permettre qu’à une seule personne à la fois de franchir l’accès. Ces moyens sont souvent conjugués avec la présence d’un gardien ou l’emploi d’un système d’identification.
+- De gardiennage : Un gardien à une porte, contrôle les entrées et les sorties par reconnaissance visuelle des personnes ou par lecture d’un badge avec photo d’identité ou bien encore par la vérification d’un laissez-passer.
 
-	- De systèmes d’identification qui analysent : 
- Les codes (clavier).
- Les cartes d’accès (magnétiques, optiques, électromagnétiques).
- Les caractéristiques physiologiques d’une personne (empreintes, iris…).
+- De moyens mécaniques : Un portillon, un sas, une barrière…peuvent être utilisés pour filtrer les entrées, les compter ou ne permettre qu’à une seule personne à la fois de franchir l’accès. Ces moyens sont souvent conjugués avec la présence d’un gardien ou l’emploi d’un système d’identification.
+
+- De systèmes d’identification qui analysent : 
+* Les codes (clavier).
+* Les cartes d’accès (magnétiques, optiques, électromagnétiques).
+* Les caractéristiques physiologiques d’une personne (empreintes, iris…).
 
 ## 2.L’identification
 L’identification est la première fonction primaire intervenant dans la configuration d’un système de contrôle d’accès. Elle permet de déterminer avec beaucoup de précision, quel est l’usager qui se présente à l’accès pour lui donner une autorisation de passage ou un refus. Le système est automatisé, une erreur sur l’accord de passage ne serait plus rattrapable, et par conséquent l’identification doit être la plus fiable possible. Il sera donc associé à chaque usager un identifiant mnémonique ou physique. La base de données du système de contrôle d’accès définira pour chaque identifiant ses droits d’accès. 

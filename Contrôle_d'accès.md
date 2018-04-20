@@ -58,7 +58,7 @@ Les lecteurs de badges qui nécessitent un contact doivent être accessibles à 
 - La carte magnétique Wratermark : il s'agit d'une carte à 2 pistes magnétiques superposées encodables exclusivement par le fabricant. Non reproductible et infalsifiable.
 
 
-	 Les badges optiques :
+*	 Les badges optiques :
 
 -	Les cartes à opacité variable (ne sont plus utilisées).
 
@@ -69,7 +69,10 @@ Les lecteurs de badges qui nécessitent un contact doivent être accessibles à 
 
 -  Les cartes à puce : elles contiennent un microprocesseur capable d’enregistrer des informations très nombreuses permettant des usages multiples. Elle procure un très haut degré de sécurité mais elle est sensible aux chocs, pliages et torsions et sont coût est assez élevé.
 
-**
+*	Les tags NFC
+
+- Le NFC, Near Field Communication, (ou communication en champ proche) est une technologie permettant d'échanger des données à moins de 10cm, entre deux appareils équipés de ce dispositif. Le NFC est intégré à la plupart de nos terminaux mobiles sous forme de puce, ainsi que sur certaines cartes de transport ou de paiement.
+
 
 *** Avantages:
 

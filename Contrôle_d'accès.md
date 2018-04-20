@@ -72,7 +72,14 @@ Les lecteurs de badges qui nécessitent un contact doivent être accessibles à 
 *	Les tags NFC
 
 - Le NFC, Near Field Communication, (ou communication en champ proche) est une technologie permettant d'échanger des données à moins de 10cm, entre deux appareils équipés de ce dispositif. Le NFC est intégré à la plupart de nos terminaux mobiles sous forme de puce, ainsi que sur certaines cartes de transport ou de paiement.
+ 
+- Un « tag NFC » est une étiquette électronique équipée de la technologie NFC. L'intérêt étant de pouvoir le programmer, de façon à envoyer une information aux appareils situés dans son champ d'action. On peut acheter des tags NFC, à programmer soi-même sur Internet. 
+Pour programmer son tag NFC, il existe des applications mobiles comme « NFC Task Launcher », disponible sur le Google Play. 
 
+-Sécurité des données avec le NFC:
+L'échange de données entre deux appareils équipés du NFC est sécurisé pour deux raisons :
+>Le respect de normes (14443 et FeliCa) utilisant des algorithmes de chiffrement et d'authentification.
+>La courte distance de communication entre les appareils, qui réduit fortement le risque de vol des données.
 
 *** Avantages:
 
